@@ -6,7 +6,7 @@ ThreatLens, siber güvenlik ve Cyber Threat Intelligence (CTI) alanlarında öğ
 ThreatLens’in temel amacı, CTI ve siber güvenlik kavramlarını daha erişilebilir, anlaşılır ve sürdürülebilir bir öğrenme deneyimi haline getirmektir. Oyunlaştırma bileşenleri sayesinde kullanıcı motivasyonunun artırılması ve öğrenme sürecinin ölçülebilir hale getirilmesi amaçlanmaktadır.
 
 ## 🚀 Özellikler
-- Mobil tabanlı eğitim platformu (Flutter)
+- Mobil tabanlı eğitim platformu
 - Kategori bazlı **quiz sistemi** ve süreli sorular
 - Farklı soru tiplerini destekleyen genişletilebilir quiz altyapısı
 - **APT (Advanced Persistent Threat)** modülü ve MITRE ATT&CK eşleştirmeleri
